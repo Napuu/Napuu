@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm Santeri, experienced Full Stack developer focusing on map related things and other geoinformatics.
+I'm Santeri, experienced Full Stack developer spesializing on map related solutions and data visualizations.
 
 ---
 
-### Some of my somewhat recent favourite projects
+#### Recent favourite projects
+
 <table>
   <tr>
     <td width="25%" valign="top">
@@ -25,11 +26,11 @@ I'm Santeri, experienced Full Stack developer focusing on map related things and
         <img src="./media/blip.png"/>
       </a>
       BLIP //
-      <a href="https://github.com/Napuu/weather-dashboard-front">
+      <a href="https://github.com/Napuu/junction2k21">
         source + docs
       </a>
       // 
-      <a href="https://matalapaine.fi">
+      <a href="https://blip.nauruvers.io">
         live
       </a>
     </td>
@@ -48,3 +49,7 @@ I'm Santeri, experienced Full Stack developer focusing on map related things and
     </td>
   </tr>
 </table>
+
+---
+
+See [LinkedIn](https://www.linkedin.com/in/santerik/) for my work experience.
