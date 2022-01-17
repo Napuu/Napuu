@@ -1,17 +1,55 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-![preview](media/matalapaine.jpg?raw=true)
-**Napuu/Napuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Santeri, experienced Full Stack developer spesializing on map related solutions and data visualizations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Recent favourite projects
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <a href="https://matalapaine.fi">
+        <img src="./media/matalapaine.jpg"/>
+      </a>
+      Matalapaine //
+      <a href="https://github.com/Napuu/weather-dashboard-front">
+        source + docs
+      </a>
+      // 
+      <a href="https://matalapaine.fi">
+        live
+      </a>
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://blip.nauruvers.io">
+        <img src="./media/blip.png"/>
+      </a>
+      BLIP //
+      <a href="https://github.com/Napuu/junction2k21">
+        source + docs
+      </a>
+      // 
+      <a href="https://blip.nauruvers.io">
+        live
+      </a>
+    </td>
+    <td width="25%" valign="top">
+      <img src="./media/donut.gif"/><br/>
+        My first Blender project!
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://jaantaponen.github.io/kiesi.app">
+        <img src="./media/kiesiapp.png"/>
+      </a>
+      Kiesi.app //
+      <a href="https://github.com/JaanTaponen/kiesi.app">
+        source + docs
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+See [LinkedIn](https://www.linkedin.com/in/santerik/) for my work experience.
