@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm Santeri, Software Engineer interested in visualizing data and connecting it to the real world. Experienced Full Stack developer.
+I'm Santeri, experienced Full Stack developer focusing on map related things and other geoinformatics.
 
 ---
 
 ### Some of my somewhat recent favourite projects
 <table>
-  <tr height="200px">
-    <td width="33%" valign="top">
+  <tr>
+    <td width="25%" valign="top">
       <a href="https://matalapaine.fi">
         <img src="./media/matalapaine.jpg"/>
       </a>
@@ -20,7 +20,7 @@ I'm Santeri, Software Engineer interested in visualizing data and connecting it 
         live
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://blip.nauruvers.io">
         <img src="./media/blip.png"/>
       </a>
@@ -33,9 +33,18 @@ I'm Santeri, Software Engineer interested in visualizing data and connecting it 
         live
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <img src="./media/donut.gif"/><br/>
         My first Blender project!
+    </td>
+    <td width="25%" valign="top">
+      <a href="https://jaantaponen.github.io/kiesi.app">
+        <img src="./media/kiesiapp.png"/>
+      </a>
+      Kiesi.app //
+      <a href="https://github.com/JaanTaponen/kiesi.app">
+        source + docs
+      </a>
     </td>
   </tr>
 </table>
