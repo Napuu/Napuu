@@ -43,7 +43,11 @@ I'm Santeri, Software Engineer interested in visualizing data and connecting it 
 ---
 
 ## Skills
-
+<style>
+td {
+  vertical-align: top;
+}
+</style>
 <table>
   <tr>
     <td>
