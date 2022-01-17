@@ -1,11 +1,10 @@
-### Hi there 👋
-<div display="flex" flex-direction="column">
-<img width="50%" src="media/matalapaine.jpg"/>
-<img width="30%" src="media/donut.gif"/><br>
-</div>
-<div display="flex" flex-direction="column">
-</div>
-<b>haloo</b>
+## Hi there 👋
+
+I'm Santeri, Software Engineer interested in visualizing data and connecting it to the real world. Geo
+
+---
+
+## Some notable projects
 
 <table bordercolor="#66b2b2">
   <tr>
@@ -14,34 +13,65 @@
         <br />
         <p><a href="https://github.com/napuu/weather-dashboard-front">Source</a> // <a href="https://matalapaine.fi">Live site</a>
         <br />
+        </p>
         <p>
           Visualizing northern Europe wind conditions.<br /><br />
-        Built using MapLibre GL JS (Mapbox GL JS), WebGL and Preact (React).<br />
+        Built using MapLibre GL JS (Mapbox GL JS), WebGL2 and Preact (React).<br />
           Wind data is fetched periodically from Finnish Meteorology Institute and processed with GDAL.
         </p>
-        <a href="https://tcl-22-shopping-list.web.app/">
+        <a href="https://matalapaine.fi">
             <img src="./media/matalapaine.jpg" width="100%" alt="avoCart demo"/>
         </a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/2001-math-max-fury-road/CouchPotato" />
-          <img src="./images/couch-potato-logo.png" width="30%" alt="Couch Potato logo" align="right" />
-      </a>
-      <h3>Couch Potato</h3>
+      <h3>BLIP</h3>
         <br />
-        <p><a href="https://github.com/2001-math-max-fury-road/CouchPotato">Repo</a> // <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">Extension</a> // <a href="https://www.youtube.com/watch?v=CQt5qoKtEBU">Demo</a></p>
+        <p><a href="https://github.com/Napuu/junction2k21">Source</a> // <a href="https://blip.nauruvers.io">Live site (be careful, it's GPU-heavy site)</a>
         <br />
-        <p>A Chrome extension allowing multiple users to stream video content together remotely. <br /><br />
-        Built using JavaScript, Preact (React), Express.js, Socket.io, and Heroku</p>
-        <a href="https://chrome.google.com/webstore/detail/couch-potato/aheloceipokicgchednkbmlaejgcpllo?hl=en-US">
-            <img src="./images/demo-couch-potato.gif" width="100%" alt="Couch Potato demo"/>
+        </p>
+        <p>
+        Visualizing potential cellular tower energy savings based on crowd movement data.<br/><br/>
+        <a href="https://hackjunction.com">Junction</a> 2021 hackathon project. Our team won "Connectivity To Eco Mode" challenge by Elisa. I was focusing on the map side.<br /><br />
+        Built using Mapbox GL JS, Deck.GL and React. Also lots of preprocessing for the data.</p>
+        <a href="https://blip.nauruvers.io">
+            <img src="./media/blip.png" width="100%" alt="Couch Potato demo"/>
         </a>
     </td>
   </tr>
 </table>
 
-
 ---
+
+## Skills
+
+<table>
+  <tr>
+    <td>
+    <h3>Recently used languages/frameworks/tools at work or personal projects</h3>
+    <ul>
+      <li>
+        JavaScript, TypeScript, NodeJS, React, Mapbox GL JS
+      </li>
+      <li>
+        Python, Geopandas, GDAL
+      </li>
+      <li>
+        Clojure
+      </li>
+    </ul>
+    </td>
+    <td>
+    <h3>Other</h3>
+    <ul>
+      <li>
+        Currently experimenting with Blender.
+        <img width="50%" src="media/donut.gif"/><br>
+        Here is my first donut rendering!
+      </li>
+    </ul>
+    </td>
+  </tr>
+</table>
 
 <!--
 
