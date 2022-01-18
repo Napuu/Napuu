@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Santeri, experienced Full Stack developer spesializing on map related solutions and data visualizations.
+I'm Santeri, experienced Full Stack developer specializing on map related solutions and data visualizations.
 
 ---
 
